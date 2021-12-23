@@ -3,7 +3,7 @@ from functools import partial
 import json
 import logging
 import os
-import pickle5 as pickle
+import pickle as pickle
 from typing import Optional, Sequence
 
 import ml_collections as mlc
